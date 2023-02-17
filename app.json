@@ -24,11 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sizze.snack1dce6e3d8d504016a8f1ad15ef1ff571"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Your project from sizze.io. In case of errors, please, contact us."
+    "description": "Your project from sizze.io. In case of errors, please, contact us.",
+    "extra": {
+      "eas": {
+        "projectId": "0f31c927-3f4a-424d-9435-284d91c540af"
+      }
+    }
   }
 }
